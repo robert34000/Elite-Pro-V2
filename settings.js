@@ -9,9 +9,9 @@ global.socialm = "GitHub: Elite-MD" //ur github or insta name
 global.location = "Port Harcourt, Nigeria" //ur location
 
 //new
-global.botname = 'ELITE-PRO-V2' //ur bot name
-global.ownernumber = '2348109263390' //ur owner number
-global.ownername = 'ELITEPRO' //ur owner name
+global.botname = 'Jingwu-md' //ur bot name
+global.ownernumber = '254792105520' //ur owner number
+global.ownername = 'Jingwu' //ur owner name
 
 global.themeemoji = '👨‍💻'
 global.wm = "EliteProEmpire"
@@ -31,7 +31,7 @@ global.autoblocknumber = '92' //set autoblock country code
 global.antiforeignnumber = '91' //set anti foreign number country code
 global.welcome = false //welcome/left in groups
 global.anticall = false //bot blocks user when called
-global.autoswview = false //auto status/story view
+global.autoswview = true //auto status/story view
 global.adminevent = false //show promote/demote message
 global.groupevent = false //show update messages in group chat
 
